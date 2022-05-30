@@ -1,4 +1,6 @@
-# - 👋 Hi, I’m Ayodele Fagbami
+# 👋 Hi, I’m Ayodele Fagbami
+
+## 🚀 About me
 - 👀 I’m a 19 year old software developer specialising in cross platform application development using flutter and firebase.
 - 🌱 I’m currently learning clean architecture implementation using flutter.
 
